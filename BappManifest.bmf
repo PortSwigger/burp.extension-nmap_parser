@@ -1,8 +1,8 @@
 Uuid: 0780c0a9f12e47848a94ac3e43dccbd9
 ExtensionType: 2
 Name: NMAP Parser
-ScreenVersion: 1.0
-SerialVersion: 1
+ScreenVersion: 1.1
+SerialVersion: 2
 MinPlatformVersion: 0
 ProOnly: False
 Author:  James Lester
