@@ -1,6 +1,7 @@
 Uuid: 0780c0a9f12e47848a94ac3e43dccbd9
 ExtensionType: 2
 Name: NMAP Parser
+RepoName: nmap-parser
 ScreenVersion: 1.1
 SerialVersion: 2
 MinPlatformVersion: 0
